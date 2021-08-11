@@ -1,0 +1,36 @@
+ .videos .video{
+ margin-right: 20px;
+ cursor: pointer;
+ }
+
+ .videos .video iframe{
+ 	width: 300px;
+ }
+ 
+ .videos{
+ 	display: flex;
+ 	flex-wrap: wrap;
+ 	flex-direction: row;
+
+ 	justify-content: space-evenly;
+
+ 
+ 	display: flex;
+ 	flex-wrap: wrap;
+ 	margin: 20px;
+	margin-top: 80px;
+	position: relative;
+		 
+n	justify-content: center;
+	align-items: center;
+
+ }
+
+ 	
+ 	
+ }
+
+ .videos .video.video-body{
+ 	margin-top: -10px;
+
+ }
